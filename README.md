@@ -1,1 +1,1 @@
-# Insurance-Claim-Fraud-Detection-Automated-Claims-Processing-System
+# Insurance Claim Fraud Detection Automated Claims Processing System
